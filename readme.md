@@ -6,14 +6,13 @@ This project is thoughtfully designed with a central emphasis on maximizing the 
 
 ### Site URL
 
-- Live Preview: [Live Preview](https://muhammad-ahmad66.github.io/Natours-CSS-SCSS-/)
+- Live Preview: [Live Preview](https://nexter-project-scss.surge.sh/)
 
 ### Built with
 
 - HTML
 - CSS -SCSS
 - Grid Layout
-
 
 ### Author
 
